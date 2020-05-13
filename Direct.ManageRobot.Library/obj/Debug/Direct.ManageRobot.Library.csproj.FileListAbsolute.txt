@@ -1,0 +1,15 @@
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Debug\Direct.ManageRobot.Library.csprojAssemblyReference.cache
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Debug\Direct.ManageRobot.Library.csproj.CoreCompileInputs.cache
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Direct.ManageRobot.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Direct.ManageRobot.Library.pdb
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Direct.Interface.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Direct.Shared.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Direct.Shared.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\log4net.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Microsoft.mshtml.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Direct.WebServiceProxy.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Debug\Microsoft.Web.Services2.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Debug\Direct.ManageRobot.Library.csproj.CopyComplete
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Debug\Direct.ManageRobot.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Debug\Direct.ManageRobot.Library.pdb

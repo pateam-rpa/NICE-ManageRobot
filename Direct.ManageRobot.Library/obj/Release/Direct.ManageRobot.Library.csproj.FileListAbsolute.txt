@@ -1,0 +1,15 @@
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Direct.ManageRobot.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Direct.ManageRobot.Library.pdb
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Direct.Interface.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Direct.Shared.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Direct.Shared.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\log4net.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Newtonsoft.Json.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Microsoft.mshtml.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Direct.WebServiceProxy.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\bin\Release\Microsoft.Web.Services2.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Release\Direct.ManageRobot.Library.csprojAssemblyReference.cache
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Release\Direct.ManageRobot.Library.csproj.CoreCompileInputs.cache
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Release\Direct.ManageRobot.Library.csproj.CopyComplete
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Release\Direct.ManageRobot.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.ManageRobot.Library\Direct.ManageRobot.Library\obj\Release\Direct.ManageRobot.Library.pdb
